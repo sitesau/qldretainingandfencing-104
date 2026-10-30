@@ -1,0 +1,22 @@
+{
+  "wheel_id": 522,
+  "structure": "umbrella",
+  "slug": "qldretainingandfencing-104",
+  "project": "retaining-wall-installation-brisbane-cost-guide-3344d8fd8b86",
+  "parent_t1_ref": "qldretainingandfencing-151",
+  "node_role": "feeder",
+  "money_target": "qldretainingandfencing.com.au",
+  "primary_kw": "retaining wall installation brisbane cost guide",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-wall-installation-brisbane-cost-guide-3344d8fd8b86/",
+  "tier": "T2",
+  "writeback_nonce": "877c0d806c18fad3",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-installation-brisbane-eae766497aecdee62d3a3fad88.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "the main guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
